@@ -34,6 +34,7 @@ public class JLock {
 	private JPasswordField passwordField;
 	public static File selectedFile = null;
 
+	// Github first commit test
 	/**
 	 * Launch the application.
 	 */
